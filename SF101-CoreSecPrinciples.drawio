@@ -1,29 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T22:26:14.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="v80h5RTgWHGSTooATuf_" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T01:47:08.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="8WH6vvJgr1zivX-KMZcp" version="24.4.8" type="github">
   <diagram name="Page-1" id="icNIoHToMT_jVfy2pEq0">
     <mxGraphModel dx="551" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zpUPX1-AgP3qRpEjRh1N-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="zpUPX1-AgP3qRpEjRh1N-5" target="zpUPX1-AgP3qRpEjRh1N-7">
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fontColor=default;shadow=1;" edge="1" parent="1" source="zpUPX1-AgP3qRpEjRh1N-5" target="zpUPX1-AgP3qRpEjRh1N-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zpUPX1-AgP3qRpEjRh1N-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="zpUPX1-AgP3qRpEjRh1N-5" target="zpUPX1-AgP3qRpEjRh1N-9">
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fontColor=default;shadow=1;" edge="1" parent="1" source="zpUPX1-AgP3qRpEjRh1N-5" target="zpUPX1-AgP3qRpEjRh1N-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zpUPX1-AgP3qRpEjRh1N-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="zpUPX1-AgP3qRpEjRh1N-5" target="zpUPX1-AgP3qRpEjRh1N-11">
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fontColor=default;shadow=1;" edge="1" parent="1" source="zpUPX1-AgP3qRpEjRh1N-5" target="zpUPX1-AgP3qRpEjRh1N-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zpUPX1-AgP3qRpEjRh1N-5" value="CIA Triad" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-5" value="CIA Triad" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=JetBrains Mono;labelBackgroundColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zpUPX1-AgP3qRpEjRh1N-7" value="Confidentiality" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-7" value="Confidentiality" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=JetBrains Mono;labelBackgroundColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zpUPX1-AgP3qRpEjRh1N-9" value="Integrity" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-9" value="Integrity" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=JetBrains Mono;labelBackgroundColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zpUPX1-AgP3qRpEjRh1N-11" value="Availability" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-11" value="Availability" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=JetBrains Mono;labelBackgroundColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;backgroundOutline=0;labelBackgroundColor=none;textShadow=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="282.5" y="700" as="targetPoint" />
+            <mxPoint x="282.5200000000001" y="750" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;backgroundOutline=0;labelBackgroundColor=none;textShadow=1;" edge="1" parent="1" source="zpUPX1-AgP3qRpEjRh1N-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="653.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-15" value="&lt;font face=&quot;JetBrains Mono&quot;&gt;Plain Text&amp;nbsp;&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=1;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;backgroundOutline=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="630" width="40" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;backgroundOutline=0;labelBackgroundColor=none;textShadow=1;" edge="1" parent="1" source="zpUPX1-AgP3qRpEjRh1N-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="653.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-18" value="&lt;font face=&quot;JetBrains Mono&quot;&gt;Encryption Algorithm&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=1;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.central_management_service;backgroundOutline=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="626.5" width="51" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-22" value="&lt;font face=&quot;JetBrains Mono&quot;&gt;Key&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.data_encryption_key;fillColor=#7D7C7C;gradientColor=none;shadow=1;backgroundOutline=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="256" y="750" width="46.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-23" value="&lt;font face=&quot;JetBrains Mono&quot;&gt;Cipher Key&lt;/font&gt;" style="shadow=1;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked_doc;fillStyle=auto;fillColor=#191919;backgroundOutline=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="626.5" width="50.8" height="61.6" as="geometry" />
+        </mxCell>
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-25" value="&lt;font face=&quot;JetBrains Mono&quot;&gt;Encryption&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;backgroundOutline=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="550" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
