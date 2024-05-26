@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T22:12:40.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.4.8" etag="k_mZInqkzHVvGuisqkKP" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T22:26:14.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="v80h5RTgWHGSTooATuf_" version="24.4.8" type="github">
   <diagram name="Page-1" id="icNIoHToMT_jVfy2pEq0">
-    <mxGraphModel>
+    <mxGraphModel dx="551" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="zpUPX1-AgP3qRpEjRh1N-5" target="zpUPX1-AgP3qRpEjRh1N-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="zpUPX1-AgP3qRpEjRh1N-5" target="zpUPX1-AgP3qRpEjRh1N-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="zpUPX1-AgP3qRpEjRh1N-5" target="zpUPX1-AgP3qRpEjRh1N-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-5" value="CIA Triad" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-7" value="Confidentiality" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-9" value="Integrity" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="390" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpUPX1-AgP3qRpEjRh1N-11" value="Availability" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="540" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
