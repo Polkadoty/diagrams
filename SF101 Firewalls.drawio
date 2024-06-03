@@ -1,9 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T19:11:42.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.4.9" etag="p7E4zymvutQCKauVwjrW" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T16:04:04.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Ac7vfflbepr1QHFFRX64" version="24.4.13" type="github">
   <diagram name="Page-1" id="ZBsWcAgryqf46eoq0MgE">
-    <mxGraphModel>
+    <mxGraphModel dx="624" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="O7FgQCfJIdM5kgI8bMn7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Jetbrains Mono;" edge="1" parent="1" source="O7FgQCfJIdM5kgI8bMn7-1" target="O7FgQCfJIdM5kgI8bMn7-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="326" y="550" />
+              <mxPoint x="220" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O7FgQCfJIdM5kgI8bMn7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Jetbrains Mono;" edge="1" parent="1" source="O7FgQCfJIdM5kgI8bMn7-1" target="O7FgQCfJIdM5kgI8bMn7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7FgQCfJIdM5kgI8bMn7-15" value="Inbound Traffic" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Jetbrains Mono;" vertex="1" connectable="0" parent="O7FgQCfJIdM5kgI8bMn7-13">
+          <mxGeometry x="0.218" relative="1" as="geometry">
+            <mxPoint x="-8" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O7FgQCfJIdM5kgI8bMn7-1" value="Firewall" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;outlineConnect=0;align=center;shape=mxgraph.office.devices.ip_gateway;fontFamily=Jetbrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="260" y="415" width="132.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="O7FgQCfJIdM5kgI8bMn7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Jetbrains Mono;" edge="1" parent="1" source="O7FgQCfJIdM5kgI8bMn7-2" target="O7FgQCfJIdM5kgI8bMn7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7FgQCfJIdM5kgI8bMn7-14" value="Inbound Traffic" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Jetbrains Mono;" vertex="1" connectable="0" parent="O7FgQCfJIdM5kgI8bMn7-3">
+          <mxGeometry x="0.2673" y="-1" relative="1" as="geometry">
+            <mxPoint x="-13" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O7FgQCfJIdM5kgI8bMn7-2" value="Internet" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.globe_internet;fontFamily=Jetbrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="80" y="435.5" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="O7FgQCfJIdM5kgI8bMn7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Jetbrains Mono;" edge="1" parent="1" source="O7FgQCfJIdM5kgI8bMn7-6" target="O7FgQCfJIdM5kgI8bMn7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7FgQCfJIdM5kgI8bMn7-6" value="Traffic Inspection" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.search;fontFamily=Jetbrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="190" y="600" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="O7FgQCfJIdM5kgI8bMn7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7FgQCfJIdM5kgI8bMn7-7" target="O7FgQCfJIdM5kgI8bMn7-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="428" y="550" />
+              <mxPoint x="326" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O7FgQCfJIdM5kgI8bMn7-7" value="Check Access Control List" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.address_book_policies;fontFamily=Jetbrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="400" y="598" width="55" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="O7FgQCfJIdM5kgI8bMn7-12" value="Intranet" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.scom;fontFamily=Jetbrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="520" y="431.75" width="66" height="56.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
