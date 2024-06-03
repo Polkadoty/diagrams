@@ -1,9 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T16:21:22.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.4.13" etag="o0XOgZldTh7SCl_wBDvF" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T16:23:19.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Jzbw6VlGTHzWqZ8wxNWa" version="24.4.13" type="github">
   <diagram name="Page-1" id="b6QLSGeN9SA4Tiii36pk">
-    <mxGraphModel>
+    <mxGraphModel dx="2019" dy="1193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JglwA08n06oJuRHw9BL7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;backgroundOutline=0;labelBackgroundColor=none;textShadow=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="539.0500000000001" y="570" as="targetPoint" />
+            <mxPoint x="539.07" y="620" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JglwA08n06oJuRHw9BL7-2" value="&lt;font face=&quot;JetBrains Mono&quot;&gt;Plain Text&amp;nbsp;&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=1;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;backgroundOutline=0;labelBackgroundColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="250.00000000000003" y="490" width="40" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="JglwA08n06oJuRHw9BL7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textShadow=1;" edge="1" parent="1" source="JglwA08n06oJuRHw9BL7-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300.4" y="513.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JglwA08n06oJuRHw9BL7-4" value="&lt;font face=&quot;JetBrains Mono&quot;&gt;Encryption Algorithm&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=1;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.central_management_service;backgroundOutline=0;labelBackgroundColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="390.5" y="487" width="51" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JglwA08n06oJuRHw9BL7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textShadow=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450.4" y="513.5" as="targetPoint" />
+            <mxPoint x="512.55" y="513.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JglwA08n06oJuRHw9BL7-6" value="&lt;font face=&quot;JetBrains Mono&quot;&gt;Decryption&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;backgroundOutline=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JglwA08n06oJuRHw9BL7-7" value="&lt;font face=&quot;JetBrains Mono&quot;&gt;Key&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="514.4499999999999" y="620" width="47" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="JglwA08n06oJuRHw9BL7-8" value="&lt;font face=&quot;JetBrains Mono&quot;&gt;Cipher Key&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.file_key;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="520.4" y="487.5" width="48" height="53" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
