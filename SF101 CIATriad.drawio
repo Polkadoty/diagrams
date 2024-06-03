@@ -1,9 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T16:16:07.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.4.10" etag="trUZK4jM0SDibFix4dFc" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T16:16:18.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Soq28vE8STni3D4T3P80" version="24.4.10" type="github">
   <diagram name="Page-1" id="vw4Co02KBQSJgfE1qKro">
-    <mxGraphModel>
+    <mxGraphModel dx="2019" dy="1193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1zzNX5TstwbTqC5dn1Hk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1zzNX5TstwbTqC5dn1Hk-4" target="1zzNX5TstwbTqC5dn1Hk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zzNX5TstwbTqC5dn1Hk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1zzNX5TstwbTqC5dn1Hk-4" target="1zzNX5TstwbTqC5dn1Hk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zzNX5TstwbTqC5dn1Hk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="1zzNX5TstwbTqC5dn1Hk-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="418" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1zzNX5TstwbTqC5dn1Hk-4" value="&lt;font face=&quot;JetBrains Mono&quot;&gt;CIA Triad&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.domain;" vertex="1" parent="1">
+          <mxGeometry x="391.5" y="310" width="53" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="1zzNX5TstwbTqC5dn1Hk-5" value="Confidentiality" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.secure_messaging;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="255" y="440" width="55" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="1zzNX5TstwbTqC5dn1Hk-6" value="Availability" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.protected_voice_mail;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="511.55" y="431.5" width="59" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="1zzNX5TstwbTqC5dn1Hk-7" value="Integrity" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.credentials;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="390" y="428" width="56" height="58" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
