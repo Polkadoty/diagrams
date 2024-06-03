@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T16:38:05.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.4.13" etag="rBt7WSJQV-aC9nVuoztj" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T16:38:15.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Nf3mOlNciblK0l6JB-Te" version="24.4.13" type="github">
   <diagram name="Page-1" id="PcJh3jB89L1XBfVH9KrV">
-    <mxGraphModel>
+    <mxGraphModel dx="2019" dy="1193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="i90C1qtLOnRcbIre6ThY-1" value="Device 1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="140" y="810" width="53" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="i90C1qtLOnRcbIre6ThY-2" value="Local Users" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="144" y="890" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i90C1qtLOnRcbIre6ThY-3" value="Device 2" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="240" y="810" width="53" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="i90C1qtLOnRcbIre6ThY-4" value="Local Users" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="244" y="890" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i90C1qtLOnRcbIre6ThY-5" value="Device 3" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="340" y="810" width="53" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="i90C1qtLOnRcbIre6ThY-6" value="Local Users" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="344" y="890" width="46" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
