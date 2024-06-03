@@ -1,26 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T16:38:15.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Nf3mOlNciblK0l6JB-Te" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T16:41:07.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="WkRkepI8wZAZR2DhYKbR" version="24.4.13" type="github">
   <diagram name="Page-1" id="PcJh3jB89L1XBfVH9KrV">
-    <mxGraphModel dx="2019" dy="1193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2019" dy="93" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i90C1qtLOnRcbIre6ThY-1" value="Device 1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;fontFamily=JetBrains Mono;" vertex="1" parent="1">
-          <mxGeometry x="140" y="810" width="53" height="56" as="geometry" />
+        <mxCell id="i90C1qtLOnRcbIre6ThY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=JetBrains Mono;" edge="1" parent="1" source="i90C1qtLOnRcbIre6ThY-11" target="i90C1qtLOnRcbIre6ThY-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i90C1qtLOnRcbIre6ThY-2" value="Local Users" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fontFamily=JetBrains Mono;" vertex="1" parent="1">
-          <mxGeometry x="144" y="890" width="46" height="50" as="geometry" />
+        <mxCell id="i90C1qtLOnRcbIre6ThY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=JetBrains Mono;" edge="1" parent="1" source="i90C1qtLOnRcbIre6ThY-11" target="i90C1qtLOnRcbIre6ThY-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i90C1qtLOnRcbIre6ThY-3" value="Device 2" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;fontFamily=JetBrains Mono;" vertex="1" parent="1">
-          <mxGeometry x="240" y="810" width="53" height="56" as="geometry" />
+        <mxCell id="i90C1qtLOnRcbIre6ThY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=JetBrains Mono;" edge="1" parent="1" source="i90C1qtLOnRcbIre6ThY-11" target="i90C1qtLOnRcbIre6ThY-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i90C1qtLOnRcbIre6ThY-4" value="Local Users" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fontFamily=JetBrains Mono;" vertex="1" parent="1">
-          <mxGeometry x="244" y="890" width="46" height="50" as="geometry" />
+        <mxCell id="i90C1qtLOnRcbIre6ThY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=JetBrains Mono;" edge="1" parent="1" source="i90C1qtLOnRcbIre6ThY-11" target="i90C1qtLOnRcbIre6ThY-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i90C1qtLOnRcbIre6ThY-5" value="Device 3" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;fontFamily=JetBrains Mono;" vertex="1" parent="1">
-          <mxGeometry x="340" y="810" width="53" height="56" as="geometry" />
+        <mxCell id="i90C1qtLOnRcbIre6ThY-11" value="User" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1140" width="46" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="i90C1qtLOnRcbIre6ThY-6" value="Local Users" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fontFamily=JetBrains Mono;" vertex="1" parent="1">
-          <mxGeometry x="344" y="890" width="46" height="50" as="geometry" />
+        <mxCell id="i90C1qtLOnRcbIre6ThY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=JetBrains Mono;" edge="1" parent="1" target="i90C1qtLOnRcbIre6ThY-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199" y="1360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="199" y="1467" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i90C1qtLOnRcbIre6ThY-13" value="Phone" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_android_proportional;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1280" width="17" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="i90C1qtLOnRcbIre6ThY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=JetBrains Mono;" edge="1" parent="1" target="i90C1qtLOnRcbIre6ThY-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="283" y="1360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i90C1qtLOnRcbIre6ThY-15" value="Laptop" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.laptop;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="254" y="1280" width="58" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="i90C1qtLOnRcbIre6ThY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=JetBrains Mono;" edge="1" parent="1" target="i90C1qtLOnRcbIre6ThY-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="377" y="1360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="377" y="1467" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i90C1qtLOnRcbIre6ThY-17" value="Workstation" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1269" width="53" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="i90C1qtLOnRcbIre6ThY-18" value="Database" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.address_book_store;fontFamily=JetBrains Mono;" vertex="1" parent="1">
+          <mxGeometry x="258" y="1440" width="50" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
